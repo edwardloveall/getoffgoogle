@@ -1,6 +1,6 @@
-#Google Analytics Alternatives
+# Google Analytics Alternatives
 
-##[Mint](http://haveamint.com)
+## [Mint](http://haveamint.com)
 
 URL: http://haveamint.com
 
