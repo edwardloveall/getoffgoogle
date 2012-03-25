@@ -19,7 +19,7 @@ only available for a limited time. Plans range from $9.95/month ($59.56/year) to
 $29.95/month ($179.95/year) and include custom plans if your needs aren't covered
 by the others.
 
-Price: $0 - 60/year
+Price: $0 - 179.95/year (Monthly pricing availible)
 
 ## [Woopra](http://www.woopra.com/)
 

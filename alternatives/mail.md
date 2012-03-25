@@ -11,7 +11,7 @@ Description: FastMail has been around since 1999 and have offered really good ma
 
 URL: http://fastmail.fm/
 
-Price: $0 - $40/year
+Price: $0 - $39.95/year
 
 ## Your own domain
 

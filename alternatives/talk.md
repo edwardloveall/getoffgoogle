@@ -8,4 +8,4 @@ audio and video calling. Audio calls between other Skype users are free, while
 calling phones can be done for very affordable rates. Skype can be paid for
 either per minute or through a $4.99/month subscription.
 
-Price: $0 - $5/month
+Price: $0 - $9.99/month - 59.88/year
