@@ -6,6 +6,6 @@ URL: http://haveamint.com
 
 Description: Made by Shaun Inman
 
-Limitations: None
+Limitations: Must be self-hosted
 
 Price: $30
