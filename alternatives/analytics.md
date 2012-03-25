@@ -3,10 +3,12 @@
 ## [Mint](http://haveamint.com)
 
 Mint is an analytics platform made by [Shaun
-Inman](http://www.shauninman.com/pilation/). It is self-hosted and costs a
+Inman](http://www.shauninman.com/pilation/). It is self-hosted and Prices a
 one-time fee of $30. Major upgrades (Such as 1.0 to 2.0) are discounted for
 users who already own it. Mint does not have the high delay between when someone
 visits the site and when it shows up in Mint like Google Analytics does.
+
+Price: $30
 
 ## [Clicky](http://getclicky.com)
 
@@ -16,3 +18,9 @@ the free plan, only one domain can be tracked at a time and some features are
 only available for a limited time. Plans range from $9.95/month ($59.56/year) to
 $29.95/month ($179.95/year) and include custom plans if your needs aren't covered
 by the others.
+
+Price: $0 - 60/year
+
+## [Woopra](http://www.woopra.com/)
+
+Price: $11.95 - 349.95/month

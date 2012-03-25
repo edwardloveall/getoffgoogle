@@ -13,7 +13,7 @@ Limitations: Must be self-hosted
 
 Price: $30
 
-## Subpug
+## [Subpug](http://subpug.com/)
 
 Description: This no login service is an interesting web based alternative.
 

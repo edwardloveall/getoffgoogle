@@ -8,7 +8,7 @@
 
 URL: http://bing.com/maps/
 
-Description: Microsoft's answer to the map game. You can only have 125,000 sessions or 500,000 transactions per 12 month period.
+Description: Microsoft's answer to the map game.
 
 Price: Free
 
