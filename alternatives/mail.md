@@ -1,6 +1,6 @@
 # Gmail Alternatives
 
-##General issues
+##General concerns
 
 * Spam filter
 * Tags

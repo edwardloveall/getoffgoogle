@@ -16,5 +16,3 @@ the free plan, only one domain can be tracked at a time and some features are
 only available for a limited time. Plans range from $9.95/month ($59.56/year) to
 $29.95/month ($179.95/year) and include custom plans if your needs aren't covered
 by the others.
-
-
