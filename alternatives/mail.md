@@ -13,6 +13,10 @@ URL: http://fastmail.fm/
 
 Price: $0 - $39.95/year
 
+## [Atmail](http://atmail.com/)
+
+
+
 ## Your own domain
 
 Description: If you're nerdy enough to have your own domain and website, it's often the case that domain hosts will offer some level of e-mail. The features will of course vary with each domain or hosting company, but it could be plenty for your needs.

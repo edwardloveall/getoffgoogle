@@ -24,3 +24,7 @@ Price: $0 - 179.95/year (Monthly pricing availible)
 ## [Woopra](http://www.woopra.com/)
 
 Price: $11.95 - 349.95/month
+
+## [Gauges](http://get.gaug.es/)
+
+Price: $6 - $48/month
